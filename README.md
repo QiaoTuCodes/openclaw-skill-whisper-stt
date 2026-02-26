@@ -43,8 +43,7 @@ MIT License
 
 ## 👥 Authors
 
-- **魏然 (Weiran)** - [GitHub](https://github.com/QiaoTuCodes)
-- **焱焱 (Yanyan)** - AI Assistant
+- **魏然** - [GitHub](https://github.com/QiaoTuCodes)
 
 ---
 
