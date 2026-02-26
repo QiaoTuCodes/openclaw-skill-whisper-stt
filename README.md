@@ -2,7 +2,7 @@
 
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QiaoTuCodes/openclaw-skill-whisper-stt/main/assets/openclaw-logo-text-dark.png">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QiaoTuCodes/openclaw-skill-whisper-stt/main/assets/openclaw-skill-logo.png">
         <img src="https://raw.githubusercontent.com/QiaoTuCodes/openclaw-skill-whisper-stt/main/assets/openclaw-skill-logo.png" alt="Whisper STT" width="500">
     </picture>
@@ -26,7 +26,7 @@ Speech-to-text skill for OpenClaw using OpenAI's Whisper model.
 ## 📦 Installation
 
 ```bash
-claw-skill-whcp -r openisper-stt ~/openclaw-workspace/skills/
+cp -r openclaw-skill-whisper-stt ~/openclaw-workspace/skills/
 pip3 install openai-whisper
 brew install ffmpeg
 ```
